@@ -8,4 +8,4 @@
 
 ## Demo
 Link:<https://carprediction123.herokuapp.com/>
-[![Front-End view of the app car prediction](/downloads/Screenshots(114).png "Outloook")]
+[![Front-End view of the app car prediction](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(113).png "Outloook")]
