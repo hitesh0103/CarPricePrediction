@@ -1,11 +1,18 @@
 # CarPricePrediction
 ## Table Of Content
-* [Demo][1]:
+* Demo
+* Overview
+* Motivation
+* Technical Aspects
+* Installation
+* Deployment on Heroku
+* Bug/Feature Rquest
+* Technologies Used
 
 
 
 
-[1]:
+
 ## Demo 
 ![Front-End view of the app car prediction](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(114).jpg "Outloook")  ![Front-End view of the app car prediction](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(113).jpg "Outloook")
  
@@ -18,7 +25,7 @@ This is a simple Car Price Prediction APP.It takes in the 'year', the respective
 ## Motivation
 Welcome reader, so from past one year i have been actively planning and working upon my transition into data science. I started learning Python from youtube in the beginning of january this year and i am so very comfortable at using it now, that i have deployed this basic app on Heroku platform. So, i wish everybody best in their life and personal goals.
 
-## Technical Aspect
+## Technical Aspects
 1. Training a RandomForestRegression model from scikit-learn API.
 2. Creating a Web App using Flask and deploying the app on Heroku.
    * The Web App asks for basic details such as Fuel-type, the date of purchase.
