@@ -77,6 +77,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 [![LOgo](https://github.com/hitesh0103/Images/blob/main/carpredLogo/main-qimg-28cadbd02699c25a88e5c78d73c7babc.jpg "Outloook")]
 
 
+## Deployment By
+Hitesh Sharma:
+[![Profile](https://github.com/hitesh0103/Images/blob/main/Profile%20picture%20compressed.JPG "Outloook")]
+
+
 
 
 
