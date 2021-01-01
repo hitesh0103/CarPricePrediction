@@ -21,5 +21,5 @@ Welcome reader, so from past one year i have been actively planning and working 
 ## Technical Aspect
 1. Training a RandomForestRegression model from scikit-learn API.
 2. Creating a Web App using Flask and deploying the app on Heroku.
-..* The Web App asks for basic details such as Fuel-type, the date of purchase.
-..* Based upon the traing predicts the price of the car.
+* The Web App asks for basic details such as Fuel-type, the date of purchase.
+* Based upon the traing predicts the price of the car.
