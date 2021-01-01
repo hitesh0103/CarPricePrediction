@@ -50,7 +50,7 @@ To run the app in a local machine, shoot this command in the project directory:
 ```web: gunicorn app:app```
 
 ## Deployment on Heroku
-To deploy the model on Heroku I first created a Repository on GitHub wit all the relevant files that are requied. Including the HTML file for the front-end.
+To deploy the model on Heroku I first created a Repository on GitHub with all the relevant files that are requied. Including the HTML file for the front-end.
 The window of Heroku looks something like this.
 
 [![Fist window of Heroku Platform](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(152).png "Outloook")]
