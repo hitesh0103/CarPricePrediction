@@ -31,3 +31,19 @@ pip install -r requirements.txt
 ```
 ## Run
 > Step 1.
+### Linux and macOS User
+Open ```.bashrc``` or ```.zshrc``` file and add the following credentials:
+   ```
+   export AWS_ACCESS_KEY="your_aws_access_key"
+   export AWS_SECRET_KEY="your_aws_secret_key"
+   export ICP_BUCKET='your_aws_bucket_name'
+   export ICP_BUCKET_REGION='bucket_region'
+   export ICP_UPLOAD_DIR='bucket_path_to_save_images'
+   export ICP_PRED_DIR='bucket_path_to_save_predictions'
+   export ICP_FLASK_SECRET_KEY='anything_random_but_unique'
+   export SENTRY_INIT='URL_given_by_sentry'
+```
+
+> Step 2.
+To run the app in a local machine, shoot this command in the project directory:
+```web: gunicorn app:app```
