@@ -71,6 +71,12 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/hitesh0103/CarPricePrediction/issues). Please include sample queries and their corresponding results.
 
+## Technologies Used
+[![LOgo](https://github.com/hitesh0103/Images/blob/main/carpredLogo/1200px-Scikit_learn_logo_small.svg.jpg "Outloook")]
+[![LOgo](https://github.com/hitesh0103/Images/blob/main/carpredLogo/flask%20logo.jpg "Outloook")]
+[![LOgo](https://github.com/hitesh0103/Images/blob/main/carpredLogo/main-qimg-28cadbd02699c25a88e5c78d73c7babc.jpg "Outloook")]
+
+
 
 
 
