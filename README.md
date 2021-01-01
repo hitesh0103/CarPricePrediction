@@ -78,7 +78,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## Deployment By
-Hitesh Sharma:
+**Hitesh Sharma:**
 [![Profile](https://github.com/hitesh0103/Images/blob/main/Profile%20picture%20compressed.JPG "Outloook")]
 
 
