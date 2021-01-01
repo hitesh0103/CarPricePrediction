@@ -46,4 +46,5 @@ Open ```.bashrc``` or ```.zshrc``` file and add the following credentials:
 
 > Step 2.
 To run the app in a local machine, shoot this command in the project directory:
+
 ```web: gunicorn app:app```
