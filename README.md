@@ -48,3 +48,24 @@ Open ```.bashrc``` or ```.zshrc``` file and add the following credentials:
 To run the app in a local machine, shoot this command in the project directory:
 
 ```web: gunicorn app:app```
+
+## Deployment on Heroku
+To deploy the model on Heroku I first created a Repository on GitHub wit all the relevant files that are requied. Including the HTML file for the front-end.
+The window of Heroku looks something like this.
+
+[![Fist window of Heroku Platform](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(152).png "Outloook")]
+
+#### This will create new App
+1. Click on the new Button.
+2. Click on create new App.
+
+
+[![Click on Connect to GitHub](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(153).png "Outloook")]
+
+#### This will connect your GitHub Repository to Heroku platform.
+> After this, **DEPLOY** Button can be clicked to deploy the model.
+
+
+
+
+
