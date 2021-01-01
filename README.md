@@ -17,7 +17,7 @@
 ![Front-End view of the app car prediction](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(114).jpg "Outloook")  ![Front-End view of the app car prediction](https://github.com/hitesh0103/Images/blob/main/Screenshot%20(113).jpg "Outloook")
  
 
-Link:<https://carprediction123.herokuapp.com/>
+Link:<https://carprice44.herokuapp.com/>
 
 ## Overview
 This is a simple Car Price Prediction APP.It takes in the 'year', the respective Car was purchsed on, the showroom price, the number of Kilometers driven, the number of owners that previously have had this car, the fuel type of the car, whether it is Petrol or Diesel. Transmission type and whether you are a dealer or not a dealer. Based upon this information entered by the user, it can predict the car price. The model has been trained on Random Forest Regression from scikit-learn library.
