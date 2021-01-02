@@ -1,13 +1,13 @@
 # CarPricePrediction
 ## Table Of Content
-* Demo
-* Overview
-* Motivation
-* Technical Aspects
-* Installation
-* Deployment on Heroku
-* Bug/Feature Rquest
-* Technologies Used
+* [Demo](https://github.com/hitesh0103/CarPricePrediction#Demo)
+* [Overview](https://github.com/hitesh0103/CarPricePrediction#Overview)
+* [Motivation](https://github.com/hitesh0103/CarPricePrediction#Motivation)
+* [Technical Aspects](https://github.com/hitesh0103/CarPricePrediction#Technical Aspects)
+* [Installation](https://github.com/hitesh0103/CarPricePrediction#Installation)
+* [Deployment on Heroku](https://github.com/hitesh0103/CarPricePrediction#Deployment on Heroku)
+* [Bug/Feature Request](https://github.com/hitesh0103/CarPricePrediction#Bug/Feature Request)
+* [Technologies Used](https://github.com/hitesh0103/CarPricePrediction#Technologies Used)
 
 
 
