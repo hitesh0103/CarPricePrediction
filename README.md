@@ -3,11 +3,11 @@
 * [Demo](https://github.com/hitesh0103/CarPricePrediction#Demo)
 * [Overview](https://github.com/hitesh0103/CarPricePrediction#Overview)
 * [Motivation](https://github.com/hitesh0103/CarPricePrediction#Motivation)
-* [Technical Aspects](https://github.com/hitesh0103/CarPricePrediction#Technical%20Aspects)
+* [TechnicalAspects](https://github.com/hitesh0103/CarPricePrediction#TechnicalAspects)
 * [Installation](https://github.com/hitesh0103/CarPricePrediction#Installation)
-* [Deployment on Heroku](https://github.com/hitesh0103/CarPricePrediction#Deployment%20on%20Heroku)
-* [Bug/Feature Request](https://github.com/hitesh0103/CarPricePrediction#Bug/Feature%20Request)
-* [Technologies Used](https://github.com/hitesh0103/CarPricePrediction#Technologies%20Used)
+* [DeploymentOnHeroku](https://github.com/hitesh0103/CarPricePrediction#DeploymentOnHeroku)
+* [Bug/FeatureRequest](https://github.com/hitesh0103/CarPricePrediction#Bug/FeatureRequest)
+* [TechnologiesUsed](https://github.com/hitesh0103/CarPricePrediction#TechnologiesUsed)
 
 
 
@@ -25,7 +25,7 @@ This is a simple Car Price Prediction APP.It takes in the 'year', the respective
 ## Motivation
 Welcome reader, so from past one year i have been actively planning and working upon my transition into data science. I started learning Python from youtube in the beginning of january this year and i am so very comfortable at using it now, that i have deployed this basic app on Heroku platform. So, i wish everybody best in their life and personal goals.
 
-## Technical Aspects
+## TechnicalAspects
 1. Training a RandomForestRegression model from scikit-learn API.
 2. Creating a Web App using Flask and deploying the app on Heroku.
    * The Web App asks for basic details such as Fuel-type, the date of purchase.
@@ -56,7 +56,7 @@ To run the app in a local machine, shoot this command in the project directory:
 
 ```web: gunicorn app:app```
 
-## Deployment on Heroku
+## DeploymentOnHeroku
 To deploy the model on Heroku I first created a Repository on GitHub with all the relevant files that are requied. Including the HTML file for the front-end.
 The window of Heroku looks something like this.
 
@@ -73,12 +73,12 @@ The window of Heroku looks something like this.
 > After this, **DEPLOY** Button can be clicked to deploy the model.
 
 
-## Bug/Feature Request
+## Bug/FeatureRequest
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/hitesh0103/CarPricePrediction/issues) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/hitesh0103/CarPricePrediction/issues). Please include sample queries and their corresponding results.
 
-## Technologies Used
+## TechnologiesUsed
 ![LOgo](https://github.com/hitesh0103/Images/blob/main/carpredLogo/1200px-Scikit_learn_logo_small.svg.jpg "Outloook")
 ![LOgo](https://github.com/hitesh0103/Images/blob/main/carpredLogo/flask%20logo.jpg "Outloook")
 ![LOgo](https://github.com/hitesh0103/Images/blob/main/carpredLogo/main-qimg-28cadbd02699c25a88e5c78d73c7babc.jpg "Outloook")
