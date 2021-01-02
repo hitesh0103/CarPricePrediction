@@ -5,6 +5,7 @@
 * [Motivation](https://github.com/hitesh0103/CarPricePrediction#Motivation)
 * [Technical Aspects](https://github.com/hitesh0103/CarPricePrediction#Technical%20Aspects)
 * [Installation](https://github.com/hitesh0103/CarPricePrediction#Installation)
+* [Deployment on Heroku](https://github.com/hitesh0103/CarPricePrediction#Deployment%20on%20Heroku)
 
 
 
