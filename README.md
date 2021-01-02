@@ -3,7 +3,7 @@
 * [Demo](https://github.com/hitesh0103/CarPricePrediction#Demo)
 * [Overview](https://github.com/hitesh0103/CarPricePrediction#Overview)
 * [Motivation](https://github.com/hitesh0103/CarPricePrediction#Motivation)
-* [Technical Aspects](https://github.com/hitesh0103/CarPricePrediction#Technical Aspects)
+* [Technical Aspects](https://github.com/hitesh0103/CarPricePrediction#Technical%20Aspects)
 * [Installation](https://github.com/hitesh0103/CarPricePrediction#Installation)
 
 
