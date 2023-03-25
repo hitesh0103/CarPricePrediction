@@ -29,7 +29,7 @@ Welcome reader, so from past one year i have been actively planning and working 
 1. Training a RandomForestRegression model from scikit-learn API.
 2. Creating a Web App using Flask and deploying the app on Heroku.
    * The Web App asks for basic details such as Fuel-type, the date of purchase.
-   * Based upon the training predicts the price of the car.
+   * Based upon the training predicts the price of the car
 
 ## Installation
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
